@@ -1,0 +1,8 @@
+﻿  Puente.cpp
+C:\Users\emena\OneDrive\Documentos\Proyectos Progamados UNA\Proyecto Fundamentos\Proyecto Fundamentos\Puente.cpp(127,8): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emena\OneDrive\Documentos\Proyectos Progamados UNA\Proyecto Fundamentos\Proyecto Fundamentos\Puente.cpp(128,8): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emena\OneDrive\Documentos\Proyectos Progamados UNA\Proyecto Fundamentos\Proyecto Fundamentos\Puente.cpp(129,8): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emena\OneDrive\Documentos\Proyectos Progamados UNA\Proyecto Fundamentos\Proyecto Fundamentos\Puente.cpp(202,8): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emena\OneDrive\Documentos\Proyectos Progamados UNA\Proyecto Fundamentos\Proyecto Fundamentos\Puente.cpp(203,8): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\emena\OneDrive\Documentos\Proyectos Progamados UNA\Proyecto Fundamentos\Proyecto Fundamentos\Puente.cpp(204,8): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Proyecto Fundamentos.vcxproj -> C:\Users\emena\OneDrive\Documentos\Proyectos Progamados UNA\Proyecto Fundamentos\x64\Debug\Proyecto Fundamentos.exe
